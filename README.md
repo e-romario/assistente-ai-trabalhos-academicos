@@ -2,11 +2,6 @@
 
 Automatiza etapas-chave da sua pesquisa acadêmica com a API Google Gemini: da busca bibliográfica à formatação final.
 
-
-# 📚 Assistente de Pesquisa Acadêmica com IA Gemini
-
-Automatize etapas-chave da sua pesquisa acadêmica com a API Google Gemini: da busca bibliográfica à formatação final, tudo em um só notebook Colab.
-
 **Última atualização:** 17/05/2025
 
 ---
